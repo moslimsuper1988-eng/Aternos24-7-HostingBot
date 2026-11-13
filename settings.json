@@ -1,13 +1,12 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "YourBotUsername",
+  "name": "AFK Bot". "bot-account": {
+    "username"  OMAREXCUB Fan",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "omarexnetwork.play-mc.fun",
+    "port": 50384,
     "version": "",
     "try-creative": false
   },
